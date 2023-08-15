@@ -1,5 +1,5 @@
 # Number-Guess
-I created this number guess game when i was on my IT(SIWES) at LAUTECH...with HTML, CSS and JAVASCRIPT.
+I created this number guess game when i was on my IT(SIWES) at LAUTECH...with HTML, CSS and JAVASCRIPT
 
 
 Number-Guess is an interactive and entertaining guessing game that challenges players to use their deduction skills to correctly identify a randomly generated number within a specified range. This game is designed to engage players in a thrilling guessing experience where they aim to narrow down possibilities through strategic choices and logical thinking.
