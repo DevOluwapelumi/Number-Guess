@@ -21,3 +21,19 @@ Challenge Levels: Number-Guess can offer varying levels of difficulty by adjusti
 Interactive User Interface: The game is presented through a user-friendly interface, often featuring buttons for making guesses, displays of previous guesses and feedback, and visual cues to guide players.
 
 Number-Guess is an excellent game for enhancing cognitive skills such as critical thinking, pattern recognition, and logical reasoning. It is suitable for players of all ages and can be played individually or in a competitive or collaborative setting. Whether enjoyed as a casual pastime or used as an educational tool, Number-Guess provides an engaging and intellectually stimulating experience that encourages players to hone their deduction abilities while having fun.
+
+    #NumberGuess
+    #JavaScriptGame
+    #HTML
+    #CSS
+    #WebDevelopment
+    #GameDevelopment
+    #InteractiveGames
+    #EducationalGames
+    #LogicGames
+    #DeductionSkills
+    #GuessingGame
+    #CodingChallenge
+    #ITProjects
+    #LAUTECH
+    #SIWES
